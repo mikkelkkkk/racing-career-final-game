@@ -1,1 +1,0 @@
-Full Final Build of Racing Career Sim - All systems implemented.
